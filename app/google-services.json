@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "892521757172",
+    "firebase_url": "https://frases-da-princesa.firebaseio.com",
+    "project_id": "frases-da-princesa",
+    "storage_bucket": "frases-da-princesa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892521757172:android:8fc1cb5465606ab7",
+        "android_client_info": {
+          "package_name": "com.ctx.frasesdaprincesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892521757172-ejcas8baiu0gaa70ib4325f8g9m7t6q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ctx.frasesdaprincesa",
+            "certificate_hash": "4ad69ca793a09af7453751282ea88711652a3434"
+          }
+        },
+        {
+          "client_id": "892521757172-jilvik0db0q402mt9jeb4efckq2mja25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR2tblXx7FwCbohZgR1mgPv92FjOLGYwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892521757172-jilvik0db0q402mt9jeb4efckq2mja25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
