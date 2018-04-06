@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements FraseFragment.OnL
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdViewRodape.loadAd(adRequest);
 
-        mImgCoroa = getDrawable(R.drawable.ic_if_crown_728988);
+        mImgCoroa = getDrawable(R.drawable.ic_icons8_crown);
         mImgMediaPlayer = getDrawable(R.drawable.ic_if_circle_music_sound_audio_mp3_outline_double_note_outline_stroke_763451);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             mImgMediaPlayer.setTint(getColor(R.color.colorAccent));
